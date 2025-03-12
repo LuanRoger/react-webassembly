@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "wfc-wasm",
   "private": true,
   "scripts": {
     "build": "turbo run build",
