@@ -25,7 +25,7 @@ export default function App() {
   }
 
   return (
-    <div className="flex flex-col items-center justify-center gap-2 h-screen">
+    <div className="flex h-screen flex-col items-center justify-center gap-2">
       <div className="flex items-center gap-4">
         <img src={reactLogo} alt="React Logo" className="w-16" />
         <img src={wasmLogo} alt="WebAssembly Logo" className="w-16" />
@@ -54,7 +54,7 @@ export default function App() {
           Add
         </button>
       </form>
-      <p className="text-lg font-bold mt-4">Result: {result}</p>
+      <p className="mt-4 text-lg font-bold">Result: {result}</p>
     </div>
   );
 }
