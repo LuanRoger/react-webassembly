@@ -1,4 +1,4 @@
-/modules/**
-/node_modules/**
-/dist/**
-./.turbo/**
+modules/
+node_modules/
+dist/
+.turbo/
