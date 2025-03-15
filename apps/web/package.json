@@ -10,9 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@hookform/resolvers": "^4.1.3",
-    "@million/lint": "^1.0.14",
     "@repo/webassembly": "*",
+    "@hookform/resolvers": "^4.1.3",
     "@tailwindcss/vite": "^4.0.14",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
